@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #B0C4DE;
+}
+
+.container {
+    background: white;
+}
+
+.turn-back {
+    cursor: pointer;
+}
+
+.turn-back:hover {
+    color: #adb5bd;
+}
