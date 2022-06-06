@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #43AFFC;
+}
+
+.container {
+  background: white;
+}
+
+.input-text {
+  display: none;
+}
+
+/*# sourceMappingURL=/style.ff1c4cab.css.map */
